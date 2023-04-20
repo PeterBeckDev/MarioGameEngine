@@ -1,0 +1,5 @@
+﻿  GameScreenLevel1.cpp
+C:\Users\beckp\OneDrive - Staffordshire University\Year 1 Work\GithubOD\GEC-Mario\MarioBaseProject\MarioBaseProject\GameScreenLevel1.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\beckp\OneDrive - Staffordshire University\Year 1 Work\GithubOD\GEC-Mario\MarioBaseProject\MarioBaseProject\GameScreenLevel1.cpp(238,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\beckp\OneDrive - Staffordshire University\Year 1 Work\GithubOD\GEC-Mario\MarioBaseProject\MarioBaseProject\GameScreenLevel1.cpp(118): warning C4715: 'GameScreenLevel1::SetUpLevel': not all control paths return a value
+  MarioBaseProject.vcxproj -> C:\Users\beckp\OneDrive - Staffordshire University\Year 1 Work\GithubOD\GEC-Mario\MarioBaseProject\Debug\MarioBaseProject.exe
